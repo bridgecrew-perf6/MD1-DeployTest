@@ -1,6 +1,6 @@
 class Student {
 
-    constructor(id, age, name) {
+    constructor(id, name, age) {
         this.id = id;
         this.age = age;
         this.name = name;
